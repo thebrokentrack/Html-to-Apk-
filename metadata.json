@@ -1,0 +1,6 @@
+{
+  "name": "HTML to APK Converter",
+  "description": "Create, edit, preview, and build HTML, CSS, and JS projects into complete optimized Android applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
